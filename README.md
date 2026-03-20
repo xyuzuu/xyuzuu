@@ -6,10 +6,9 @@
 
 <h2 align="center">Hey there!</h2>
 
-Dimas here! I'm a Software Engineer from Indonesia. I work with JavaScript, Python, and Go, specializing in server management, network infrastructure, VPS, and backend development. I also enjoy building websites and developing applications.
+Dimas here! I'm a Software Engineer from Indonesia. I work with JavaScript, Python, and Go, specializing in AI software development, robotics, and intelligent systems. I enjoy building smart applications, experimenting with automation, and creating tech that can think and interact with the world.
 
 I don't consider myself particularly special yet, but I hope to change that in the future.
-
 My hobbies include watching anime, reading, and listening to music!
 
 <h2>About me</h2>
