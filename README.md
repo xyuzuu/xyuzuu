@@ -17,7 +17,7 @@ My hobbies include watching anime, reading, and listening to music!
 root@dimslolih: ~/xyuzuu (main)$ fastfetch
 ```
 
-<img align="left" src="https://raw.githubusercontent.com/xyuzuu/database/main/uploads/1763513540546.jpeg" width="130px"/>
+<img align="left" src="https://raw.githubusercontent.com/xyuzuu/database/master/uploads/2317.jpg" width="130px"/>
 
 ```yaml
 My Profile
